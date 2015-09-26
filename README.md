@@ -17,7 +17,7 @@ Zachęcam do dopisywania:
 1. Równania strukturalne [Maciej?]
 1. Konfirmacyjna analiza czynnikowa [Ewa?]
 1. Budowa skal pomiarowych z użyciem IRT [Paweł]
-2. Bootstraping na przykładach [?] - [link](https://github.com/pa0/ESM/blob/master/warsztat_bootstrap)
+2. Bootstraping na przykładach [?] - [link](https://github.com/pa0/ESM/blob/master/warsztat_bootstrap.md)
 1. ???
 
 # Propozycje prelegentów
