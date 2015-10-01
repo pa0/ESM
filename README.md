@@ -1,7 +1,7 @@
 # ESM
-Empiryczne seminarium międzyuczelniane
+## Empiryczne seminarium międzyuczelniane
 
-# O czym i dlaczego
+## O czym i dlaczego
 
 Po pozytywnym odzewie po konferencji [EKM](http://uampsych-ekm.home.amu.edu.pl) postanowiłem utrzymać tempo i zorganizować spotkania osób zaintertesowanych metodami empirycznymi w naukach społecznych.
 Na początek plan jest aby spotykać się co 1-1.5 miesiąca. Czy całość wypali? Zależy tylko od nas :-)
@@ -11,7 +11,7 @@ Dobrze jakby spotkania miały charakter warsztatowy - może nie wszystko się b�
 
 Zachęcam do dopisywania:
 
-# Propozycja tematów
+## Propozycja tematów
 
 1. Markdown, Knitr, Github czyli jak skupić się na pracy naukowej a resztę zostawić komputerom [Paweł]
 2. Moc testów [Maciej]
@@ -21,7 +21,7 @@ Zachęcam do dopisywania:
 2. Bootstraping na przykładach [?] - [link](https://github.com/pa0/ESM/blob/master/warsztat_bootstrap.md)
 1. ???
 
-# Propozycje prelegentów
+## Propozycje prelegentów
 
-1. Prof. Nezlek
+1. Prof. Nezlek - osobiście albo wykład online
 1. ???
