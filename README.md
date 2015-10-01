@@ -14,6 +14,7 @@ Zachęcam do dopisywania:
 # Propozycja tematów
 
 1. Markdown, Knitr, Github czyli jak skupić się na pracy naukowej a resztę zostawić komputerom [Paweł]
+2. Moc testów [Maciej]
 1. Równania strukturalne [Maciej?]
 1. Konfirmacyjna analiza czynnikowa [Ewa?]
 1. Budowa skal pomiarowych z użyciem IRT [Paweł]
